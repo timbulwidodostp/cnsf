@@ -3,6 +3,8 @@ Stochastic frontier models with contaminated normal noise distributions Use cnsf
 
 Contaminated normal-half normal stochastic frontier model Use cnsf With STATA 18
 
+https://www.youtube.com/watch?v=f77WpV6l6lI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
